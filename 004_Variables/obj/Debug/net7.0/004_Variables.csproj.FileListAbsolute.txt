@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/bin/Debug/net7.0/004_Variables
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/bin/Debug/net7.0/004_Variables.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/bin/Debug/net7.0/004_Variables.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/bin/Debug/net7.0/004_Variables.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/bin/Debug/net7.0/004_Variables.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/refint/004_Variables.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/004_Variables.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/004_Variables/obj/Debug/net7.0/ref/004_Variables.dll

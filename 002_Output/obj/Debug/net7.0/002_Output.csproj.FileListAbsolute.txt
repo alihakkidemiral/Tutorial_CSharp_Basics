@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/bin/Debug/net7.0/002_Output
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/bin/Debug/net7.0/002_Output.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/bin/Debug/net7.0/002_Output.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/bin/Debug/net7.0/002_Output.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/bin/Debug/net7.0/002_Output.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/refint/002_Output.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/002_Output.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/002_Output/obj/Debug/net7.0/ref/002_Output.dll
