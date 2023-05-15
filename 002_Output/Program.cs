@@ -1,4 +1,5 @@
-﻿//* Commands of console output
+﻿//* Commands for console output (print) values.
+//* Console.WriteLine() and Console.Write() methods are used to output.
 
 using System;
 

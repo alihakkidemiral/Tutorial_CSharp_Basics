@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/bin/Debug/net7.0/005_TypeCasting
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/bin/Debug/net7.0/005_TypeCasting.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/bin/Debug/net7.0/005_TypeCasting.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/bin/Debug/net7.0/005_TypeCasting.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/bin/Debug/net7.0/005_TypeCasting.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/refint/005_TypeCasting.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/005_TypeCasting.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/005_TypeCasting/obj/Debug/net7.0/ref/005_TypeCasting.dll
