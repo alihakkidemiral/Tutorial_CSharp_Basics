@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/bin/Debug/net7.0/008_Math
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/bin/Debug/net7.0/008_Math.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/bin/Debug/net7.0/008_Math.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/bin/Debug/net7.0/008_Math.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/bin/Debug/net7.0/008_Math.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/refint/008_Math.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/008_Math.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/008_Math/obj/Debug/net7.0/ref/008_Math.dll

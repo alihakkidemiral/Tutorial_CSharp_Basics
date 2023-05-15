@@ -7,7 +7,7 @@ namespace UserInput
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             Console.WriteLine("Enter username: ");
             string userName = Console.ReadLine();

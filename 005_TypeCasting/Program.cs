@@ -4,7 +4,7 @@ namespace TypeCasting
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             /*
                 type casting, used when you need convert a variable type to another type.

@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/bin/Debug/net7.0/010_Boolean
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/bin/Debug/net7.0/010_Boolean.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/bin/Debug/net7.0/010_Boolean.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/bin/Debug/net7.0/010_Boolean.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/bin/Debug/net7.0/010_Boolean.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/refint/010_Boolean.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/010_Boolean.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/010_Boolean/obj/Debug/net7.0/ref/010_Boolean.dll
