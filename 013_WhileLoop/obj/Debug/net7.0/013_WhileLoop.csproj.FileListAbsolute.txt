@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/bin/Debug/net7.0/013_WhileLoop
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/bin/Debug/net7.0/013_WhileLoop.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/bin/Debug/net7.0/013_WhileLoop.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/bin/Debug/net7.0/013_WhileLoop.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/bin/Debug/net7.0/013_WhileLoop.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/refint/013_WhileLoop.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/013_WhileLoop.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/013_WhileLoop/obj/Debug/net7.0/ref/013_WhileLoop.dll

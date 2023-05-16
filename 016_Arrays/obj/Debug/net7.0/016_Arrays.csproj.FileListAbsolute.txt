@@ -1,0 +1,15 @@
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/bin/Debug/net7.0/016_Arrays
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/bin/Debug/net7.0/016_Arrays.deps.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/bin/Debug/net7.0/016_Arrays.runtimeconfig.json
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/bin/Debug/net7.0/016_Arrays.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/bin/Debug/net7.0/016_Arrays.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.csproj.AssemblyReference.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.AssemblyInfoInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.AssemblyInfo.cs
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.csproj.CoreCompileInputs.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/refint/016_Arrays.dll
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.pdb
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/016_Arrays.genruntimeconfig.cache
+/media/Data/Documents/Git/Tutorial_CSharp_Basics/016_Arrays/obj/Debug/net7.0/ref/016_Arrays.dll
